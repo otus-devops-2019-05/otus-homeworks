@@ -38,7 +38,8 @@ control 'structure' do
     'kubernetes/Charts/comment/templates/service.yaml',
 
     'src/ui/.gitlab-ci.yml',
-    'src/post/.gitlab-ci.yml',
+    # 'src/post/.gitlab-ci.yml',
+    'src/post-py/.gitlab-ci.yml',
     'src/comment/.gitlab-ci.yml',
   ]
 
